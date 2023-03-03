@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "920047912475",
+    "project_id": "mimang-a0652",
+    "storage_bucket": "mimang-a0652.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920047912475:android:2fc268e68a4cfa47ce9abe",
+        "android_client_info": {
+          "package_name": "com.example.mi_mang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920047912475-g2s63b1j9r2t6kk9fsn8269dq94libpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJQOUSywAMUgAdN5eyX29egrOnysNUnU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920047912475-g2s63b1j9r2t6kk9fsn8269dq94libpe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
